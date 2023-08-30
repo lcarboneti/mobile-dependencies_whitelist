@@ -1637,7 +1637,7 @@
       "version": "1\\.5\\.2"
     },
     {
-      "expires": "2023-09-30",
+      "expires": "2023-07-30",
       "group": "com\\.mercadolibre\\.android\\.traceability",
       "name": "traceability",
       "version": "7\\.\\+",
