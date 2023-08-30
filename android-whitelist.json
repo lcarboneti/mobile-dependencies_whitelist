@@ -1640,7 +1640,7 @@
       "expires": "2023-09-30",
       "group": "com\\.mercadolibre\\.android\\.traceability",
       "name": "traceability",
-      "version": "7\\.\\+"
+      "version": "7\\.\\+",
       "allows_granular_projects": [
         "com.mercadolibre.android.transitivity_testation"
       ]
@@ -1648,7 +1648,7 @@
     {
       "group": "com\\.mercadolibre\\.android\\.traceability",
       "name": "traceability",
-      "version": "8\\.\\+"
+      "version": "8\\.\\+",
       "allows_granular_projects": [
         "com.mercadolibre.android.transitivity_testation"
       ]
