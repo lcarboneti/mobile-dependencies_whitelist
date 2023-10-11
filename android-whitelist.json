@@ -1560,15 +1560,15 @@
       "version": "1\\.5\\.32"
     },
     {
+      "group": "org\\.jetbrains\\.kotlin",
+      "name": "kotlin-stdlib-jdk8",
+      "version": "1\\.5\\.33"
+    },
+    {
       "expires": "2023-12-30",
       "group": "org\\.jetbrains\\.kotlin",
       "name": "kotlin-stdlib-jdk8",
       "version": "1\\.5\\.32"
-    },
-    {
-      "group": "org\\.jetbrains\\.kotlin",
-      "name": "kotlin-stdlib-jdk8",
-      "version": "1\\.5\\.33"
     },
     {
       "expires": "2023-12-30",
