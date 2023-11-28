@@ -1705,7 +1705,8 @@
       "version": "7\\.\\+",
       "allows_granular_projects": [ 
           "com.mercadolibre.android.transitivity_testation"
-      ]
+      ],
+      "transitivity": true
     },
     {
       "group": "com\\.mercadolibre\\.android\\.inappupdates",
