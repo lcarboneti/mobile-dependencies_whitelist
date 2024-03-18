@@ -3,7 +3,8 @@
     {
       "group": "com\\.mercadolibre\\.android\\.nfcpayments",
       "name": "visa-sensory-branding",
-      "version": "2\\.+"
+      "version": "2\\.+",
+      "transitivity" : false
     },
     {
       "group": "com\\.mercadolibre\\.android\\.nfcpushprovisioning",
