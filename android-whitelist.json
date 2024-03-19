@@ -6,6 +6,12 @@
       "version": "2\\.+",
       "transitivity" : false
     },
+     {
+      "group": "com\\.mercadolibre\\.android\\.transitivity_testation",
+      "name": "testation",
+      "version": "EXPERIMENTAL-0\\.+",
+      "transitivity" : false
+    },
     {
       "group": "com\\.mercadolibre\\.android\\.nfcpushprovisioning",
       "name": "core",
