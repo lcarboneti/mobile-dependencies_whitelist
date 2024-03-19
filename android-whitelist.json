@@ -13,6 +13,12 @@
       "transitivity" : false
     },
     {
+      "group": "com\\.mercadolibre\\.android\\.transitivity_propagation",
+      "name": "propagation",
+      "version": "EXPERIMENTAL-0\\.+",
+      "transitivity" : false
+    },
+    {
       "group": "com\\.mercadolibre\\.android\\.nfcpushprovisioning",
       "name": "core",
       "version": "2\\.+"
