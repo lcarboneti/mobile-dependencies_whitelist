@@ -3,8 +3,7 @@
     {
       "group": "com\\.mercadolibre\\.android\\.nfcpayments",
       "name": "visa-sensory-branding",
-      "version": "2\\.+",
-      "transitivity" : false
+      "version": "2\\.+"
     },
      {
       "group": "com\\.mercadolibre\\.android\\.transitivity_testation",
@@ -1759,12 +1758,14 @@
     {
       "group": "com\\.mercadolibre\\.android\\.andesui",
       "name": "coachmark",
-      "version": "7\\.\\+"
+      "version": "7\\.\\+",
+      "transitivity" : false
     },
     {
       "group": "com\\.mercadolibre\\.android\\.andesui",
       "name": "components",
-      "version": "7\\.\\+"
+      "version": "7\\.\\+",
+      "transitivity" : false
     },
     {
       "description": "Deprecated due to Kotlin Migration. Use 3.+ instead.",
