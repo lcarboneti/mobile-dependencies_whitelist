@@ -15,8 +15,7 @@
     {
       "group": "com\\.mercadolibre\\.android\\.transitivity_propagation",
       "name": "propagation",
-      "version": "EXPERIMENTAL-0\\.+",
-      "transitivity" : false
+      "version": "EXPERIMENTAL-0\\.+"
     },
     {
       "group": "com\\.mercadolibre\\.android\\.nfcpushprovisioning",
