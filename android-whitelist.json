@@ -17,7 +17,7 @@
       "version": "EXPERIMENTAL-0\\.+",
       "transitivity" : false,
       "allows_granular_projects": [ 
-          "com.mercadolibre.android.transitivity_testation"
+          "com.mercadolibre.android.corepermision"
       ]
     },
     {
