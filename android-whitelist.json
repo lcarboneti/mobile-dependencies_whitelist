@@ -6,19 +6,15 @@
       "version": "2\\.+"
     },
      {
-      "group": "com\\.mercadolibre\\.android\\.corepermision",
+      "group": "com\\.mercadolibre\\.android\\.transitivity_testation",
       "name": "testation",
-      "version": "EXPERIMENTAL-0\\.+"
-      
+      "version": "EXPERIMENTAL-0\\.+",
+      "transitivity" : false
     },
     {
-      "group": "com\\.mercadolibre\\.android\\.commons",
-      "name": "permision",
-      "version": "EXPERIMENTAL-0\\.+",
-      "transitivity" : false,
-      "allows_granular_projects": [ 
-          "com.mercadolibre.android.corepermision"
-      ]
+      "group": "com\\.mercadolibre\\.android\\.transitivity_propagation",
+      "name": "propagation",
+      "version": "EXPERIMENTAL-0\\.+"
     },
     {
       "group": "com\\.mercadolibre\\.android\\.nfcpushprovisioning",
