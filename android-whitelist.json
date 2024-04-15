@@ -1,6 +1,17 @@
 {
   "whitelist": [
     {
+      "group": "com\\.mercadolibre\\.android\\.transitivity_testation",
+      "name": "testation",
+      "version": "EXPERIMENTAL-0\\.+",
+      "transitivity" : false
+    },
+    {
+      "group": "com\\.mercadolibre\\.android\\.transitivity_propagation",
+      "name": "propagation",
+      "version": "EXPERIMENTAL-0\\.+"
+    },
+    {
       "group": "com\\.mercadolibre\\.android\\.nfcpayments",
       "name": "visa-sensory-branding",
       "version": "2\\.+"
